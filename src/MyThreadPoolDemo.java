@@ -26,6 +26,8 @@ public class MyThreadPoolDemo {
      *  推荐手写线程池
      * */
 
+    ////@@@
+
     public static void main(String[] args) {
 
 //        ExecutorService threadPool = Executors.newFixedThreadPool(5);  // 创建一个定长线程池 可控制最大并发数 超出得线程会在队列中等待
